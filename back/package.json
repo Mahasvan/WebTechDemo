@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@sequelize/sqlite3": "^7.0.0-alpha.43",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
